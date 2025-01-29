@@ -1,4 +1,3 @@
-import project1 from "../assets/project-screenshots/project-1.png";
 import project2 from "../assets/project-screenshots/project-2.png";
 import project3 from "../assets/project-screenshots/project-3.png";
 
@@ -18,15 +17,6 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "E-Commerce Website",
-    image: project1,
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["React", "TailwindCSS", "Redux", "shadcn/ui", "Node.js", "Express.js", "MongoDB", "Mongoose", "Cloudinary", "PayPal API"],
-    link: "https://github.com/StathisPlakakis/ECommerce",
-
-  },
   {
     title: "Product Store",
     image: project2,
